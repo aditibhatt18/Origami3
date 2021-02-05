@@ -1,0 +1,10 @@
+body{
+    border: solid;
+    background-image: url("Background3.png");
+    background-size: 100%;
+}
+
+.footer{
+    text-align: end;
+    justify-content: end;
+}
